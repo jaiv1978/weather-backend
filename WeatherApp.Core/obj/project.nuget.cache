@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLhMB5hpb7dxM3051OwgFbauSQfpk0LwBtneG06jAR4JxE9H2SQJpcadFI9Z3vvMULTPEVx77j3OD/4YGMKM2w==",
+  "success": true,
+  "projectFilePath": "C:\\informacion\\Upstart13\\WeatherApp\\WeatherApp.Core\\WeatherApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

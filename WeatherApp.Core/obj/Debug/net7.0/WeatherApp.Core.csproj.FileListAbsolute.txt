@@ -1,0 +1,12 @@
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\bin\Debug\net7.0\WeatherApp.Core.deps.json
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\bin\Debug\net7.0\WeatherApp.Core.dll
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\bin\Debug\net7.0\WeatherApp.Core.pdb
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.csproj.AssemblyReference.cache
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.AssemblyInfoInputs.cache
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.AssemblyInfo.cs
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.dll
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\refint\WeatherApp.Core.dll
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\WeatherApp.Core.pdb
+C:\informacion\Upstart13\WeatherApp\WeatherApp.Core\obj\Debug\net7.0\ref\WeatherApp.Core.dll
